@@ -1,0 +1,15 @@
+C:\Users\sanek\OneDrive\Рабочий стол\учёба\attemt4\bin\Debug\net6.0\attemt4.exe
+C:\Users\sanek\OneDrive\Рабочий стол\учёба\attemt4\bin\Debug\net6.0\attemt4.deps.json
+C:\Users\sanek\OneDrive\Рабочий стол\учёба\attemt4\bin\Debug\net6.0\attemt4.runtimeconfig.json
+C:\Users\sanek\OneDrive\Рабочий стол\учёба\attemt4\bin\Debug\net6.0\attemt4.dll
+C:\Users\sanek\OneDrive\Рабочий стол\учёба\attemt4\bin\Debug\net6.0\attemt4.pdb
+C:\Users\sanek\OneDrive\Рабочий стол\учёба\attemt4\obj\Debug\net6.0\attemt4.csproj.AssemblyReference.cache
+C:\Users\sanek\OneDrive\Рабочий стол\учёба\attemt4\obj\Debug\net6.0\attemt4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanek\OneDrive\Рабочий стол\учёба\attemt4\obj\Debug\net6.0\attemt4.AssemblyInfoInputs.cache
+C:\Users\sanek\OneDrive\Рабочий стол\учёба\attemt4\obj\Debug\net6.0\attemt4.AssemblyInfo.cs
+C:\Users\sanek\OneDrive\Рабочий стол\учёба\attemt4\obj\Debug\net6.0\attemt4.csproj.CoreCompileInputs.cache
+C:\Users\sanek\OneDrive\Рабочий стол\учёба\attemt4\obj\Debug\net6.0\attemt4.dll
+C:\Users\sanek\OneDrive\Рабочий стол\учёба\attemt4\obj\Debug\net6.0\refint\attemt4.dll
+C:\Users\sanek\OneDrive\Рабочий стол\учёба\attemt4\obj\Debug\net6.0\attemt4.pdb
+C:\Users\sanek\OneDrive\Рабочий стол\учёба\attemt4\obj\Debug\net6.0\attemt4.genruntimeconfig.cache
+C:\Users\sanek\OneDrive\Рабочий стол\учёба\attemt4\obj\Debug\net6.0\ref\attemt4.dll
